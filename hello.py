@@ -1,3 +1,5 @@
-name = "pepe"
-print ("Hello,", name)
+name1 = input("Как тебя зовут?" )
+print (name1)
+print ("Hello,", name1)
+
 
